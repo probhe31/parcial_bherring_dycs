@@ -1,0 +1,13 @@
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\bin\Debug\netcoreapp2.1\Parcial.deps.json
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\bin\Debug\netcoreapp2.1\Parcial.runtimeconfig.json
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\bin\Debug\netcoreapp2.1\Parcial.runtimeconfig.dev.json
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\bin\Debug\netcoreapp2.1\Parcial.dll
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\bin\Debug\netcoreapp2.1\Parcial.pdb
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.csproj.CoreCompileInputs.cache
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.RazorAssemblyInfo.cache
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.RazorAssemblyInfo.cs
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.AssemblyInfoInputs.cache
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.AssemblyInfo.cs
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.RazorTargetAssemblyInfo.cache
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.dll
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.pdb
