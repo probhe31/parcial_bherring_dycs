@@ -22,5 +22,9 @@ namespace Parcial.Items.Application.Assembler
             return _mapper.Map<List<Item>, List<ItemDto>>(itemList);
         }
 
+        public Item toEntity(ItemDto itemDto)
+        {
+            return _mapper.Map<Item>(itemDto);
+        }
     }
 }

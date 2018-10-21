@@ -15,6 +15,11 @@ namespace Parcial.Items.Infraestructure.Persistence.NHibernate.Mapping
             Map(x => x.Name).Column("item_name");
             Map(x => x.Description).Column("item_description");            
             Map(x => x.Level).CustomType<int>().Column("item_level");
+            Component(x => x.Cost, m =>
+            {
+                m.Map(x => x.Amount, "cost");
+                m.Map(x => x.Currency, "currency");
+            });
 
         }
     }

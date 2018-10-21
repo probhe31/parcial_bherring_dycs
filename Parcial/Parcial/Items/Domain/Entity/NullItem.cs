@@ -7,17 +7,12 @@ using System.Threading.Tasks;
 
 namespace Parcial.Items.Domain.Entity
 {
-    public class Item : IItem
+    public class NullItem : IItem
     {
         public virtual long Id { get; protected set; }
-        public virtual string Name { get; }
+        public virtual string Name { get; } = string.Empty;
         public virtual string Description { get; }
         public virtual Level Level { get; }
         public virtual Money Cost { get; set; }
-        
-
-        public Item()
-        {
-        }
     }
 }

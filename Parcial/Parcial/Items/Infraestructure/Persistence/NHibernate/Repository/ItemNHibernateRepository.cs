@@ -15,6 +15,8 @@ namespace Parcial.Items.Infraestructure.Persistence.NHibernate.Repository
         {
         }
 
+        
+
         public List<Item> GetList(Specification<Item> specification, int page = 0, int pageSize = 5)
         {
             List<Item> items = new List<Item>();
@@ -36,7 +38,13 @@ namespace Parcial.Items.Infraestructure.Persistence.NHibernate.Repository
             }
             return items;
         }
-       
+
+
+        
+        public Item GetItemById(long id)
+        {
+            throw new NotImplementedException();
+        }
 
 
     }

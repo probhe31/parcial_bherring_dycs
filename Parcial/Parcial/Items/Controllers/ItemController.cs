@@ -62,5 +62,15 @@ namespace Parcial.Items.Controllers
             return specification;
         }
 
+
+        //NULL OBJECT PATTERN
+        public IItem GetProductById(int itemId)
+        {
+            Item item= _itemRepository.GetItemById(itemId);
+            if (item == null)
+                return new NullItem();
+            return item;
+        }
+
     }
 }

@@ -11,3 +11,4 @@ G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Par
 G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.RazorTargetAssemblyInfo.cache
 G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.dll
 G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.pdb
+G:\Maestria\DESIGN_CONSTRUCT\Parcial\Parcial\Parcial\obj\Debug\netcoreapp2.1\Parcial.csprojAssemblyReference.cache

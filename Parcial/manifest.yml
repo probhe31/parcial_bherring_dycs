@@ -1,0 +1,6 @@
+---
+applications:
+- name: api-parcial_bherring-dycws
+ memory: 512M
+ path: bin\Release\netcoreapp2.1\publish
+ buildpack: https://github.com/cloudfoundry/dotnet-core-buildpack.git

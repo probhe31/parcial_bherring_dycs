@@ -15,15 +15,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Items - Copy - Copy\Application\Assembler\" />
-    <Folder Include="Items - Copy - Copy\Application\Dto\" />
-    <Folder Include="Items - Copy - Copy\Controllers\" />
-    <Folder Include="Items - Copy - Copy\Domain\Entity\" />
-    <Folder Include="Items - Copy - Copy\Domain\Enum\" />
-    <Folder Include="Items - Copy - Copy\Domain\Repository\" />
-    <Folder Include="Items - Copy - Copy\Infraestructure\Persistence\NHibernate\Mapping\" />
-    <Folder Include="Items - Copy - Copy\Infraestructure\Persistence\NHibernate\Repository\" />
-    <Folder Include="Items - Copy - Copy\Infraestructure\Persistence\NHibernate\Specification\" />
+    <Folder Include="template\Application\Assembler\" />
+    <Folder Include="template\Application\Dto\" />
+    <Folder Include="template\Controllers\" />
+    <Folder Include="template\Domain\Entity\" />
+    <Folder Include="template\Domain\Enum\" />
+    <Folder Include="template\Domain\Repository\" />
+    <Folder Include="template\Infraestructure\Persistence\NHibernate\Mapping\" />
+    <Folder Include="template\Infraestructure\Persistence\NHibernate\Repository\" />
+    <Folder Include="template\Infraestructure\Persistence\NHibernate\Specification\" />
     <Folder Include="Common\Application\Assembler\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
